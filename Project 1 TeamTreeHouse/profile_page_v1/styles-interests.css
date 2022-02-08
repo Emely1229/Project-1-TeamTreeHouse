@@ -75,6 +75,14 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+h2 {
+text-align: center;
+}
+}
+section p {
+text-align: center;
+}
+}
 .tag {
   background-color: rgba(255,195,224, 0.5);
   color: black;
