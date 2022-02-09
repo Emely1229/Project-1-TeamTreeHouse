@@ -142,6 +142,11 @@ ul.skills {
   height:200px;
   border-radius: 6px;
 }
+#dance-list {
+list-style: none;
+background-color: lightblue;
+border-radius:30px;
+}
 }
 
 footer {
