@@ -112,6 +112,16 @@ border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
 }
+.cardida {
+  margin: 5px;
+  padding: 20px 40px 40px;
+  max-width: 1000px;
+  text-align: center;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
 .card:hover {
   border-color: #ff99ff;
 }
@@ -145,7 +155,11 @@ background-color: lightblue;
 border-radius:30px;
 padding: 0px 0px 0px;
 }
-
+#vrchat-dancers {
+  align-content: center;
+  height:200px;
+  border-radius: 6px;
+}
 
 footer {
   width: 100%;
