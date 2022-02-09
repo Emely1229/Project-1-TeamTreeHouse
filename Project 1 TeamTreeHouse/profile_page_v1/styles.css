@@ -137,6 +137,11 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+#music {
+  list-style:none;
+  background: #cce5ff;
+ margin: 5px;
+}
 
 footer {
   width: 100%;
