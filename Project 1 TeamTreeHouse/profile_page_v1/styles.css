@@ -76,9 +76,13 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
-section .vr-image {
+.vr-image {
 border-radius: 10%;
 border: 5px solid #d2b4de;
+align-content: center;
+weight:300px;
+height:300px;
+margin-top: 15rem;
 }
 }
 .tag-name .image {
