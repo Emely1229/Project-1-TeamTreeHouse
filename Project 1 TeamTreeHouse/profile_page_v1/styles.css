@@ -79,16 +79,14 @@ header .profile-image:hover {
 .vr-image {
 border-radius: 10%;
 align-content: center;
-weight:300px;
 height:300px;
 }
 .vr-image-dance {
 border-radius: 10%;
 align-content: center;
-weight:200px;
 height:200px;
 }
-}
+
 .tag-name .image {
 border-bottom: 4px solid #ccc;
 }
@@ -138,7 +136,6 @@ ul.skills {
 
 #educationalcoach {
   align-content: center;
-  weight:200px;
   height:200px;
   border-radius: 6px;
 }
@@ -147,7 +144,7 @@ list-style: none;
 background-color: lightblue;
 border-radius:30px;
 }
-}
+
 
 footer {
   width: 100%;
