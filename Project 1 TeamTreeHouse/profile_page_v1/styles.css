@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: pink;
 }
 
 /* Section Styles */
@@ -74,7 +74,7 @@ header .profile-image {
   transition:  .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform:scale(1.2);
 }
 .vr-image {
 border-radius: 10%;
