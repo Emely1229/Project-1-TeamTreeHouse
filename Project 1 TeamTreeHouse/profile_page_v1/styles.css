@@ -84,6 +84,13 @@ weight:300px;
 height:300px;
 margin-top: 15rem;
 }
+.vr-image-dance {
+border-radius: 10%;
+border: 5px solid #d2b4de;
+align-content: center;
+weight:200px;
+height:200px;
+}
 }
 .tag-name .image {
 border-bottom: 4px solid #ccc;
