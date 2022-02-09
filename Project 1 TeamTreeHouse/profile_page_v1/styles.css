@@ -78,14 +78,12 @@ header .profile-image:hover {
 }
 .vr-image {
 border-radius: 10%;
-border: 5px solid #d2b4de;
 align-content: center;
 weight:300px;
 height:300px;
 }
 .vr-image-dance {
 border-radius: 10%;
-border: 5px solid #d2b4de;
 align-content: center;
 weight:200px;
 height:200px;
@@ -137,10 +135,17 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
-#music {
+.music {
   list-style:none;
   background: #cce5ff;
  margin: 5px;
+}
+#educationalcoach {
+  align-content: center;
+  weight:200px;
+  height:200px;
+  border-radius: 6px;
+}
 }
 
 footer {
